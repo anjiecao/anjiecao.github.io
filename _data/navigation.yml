@@ -7,9 +7,10 @@ main:
     url: /outreach/
    
   - title: "Fun!"
-    url: /portfolio/
+    url: /fun!/
         
+  <!---
   - title: "Blog Posts"
     url: /year-archive/
-
+  -->
 

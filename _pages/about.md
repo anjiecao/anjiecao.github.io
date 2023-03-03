@@ -14,5 +14,5 @@ In my first line of research, I aim to understand the underlying mechanisms behi
 
 Before Stanford, I was an undergraduate student at Carnegie Mellon University, where I studied cognitive science and philosophy. My undergraduate research was primarily on language acquisition in infancy and early childhood. I worked in [Infant Language and Learning Lab (PI: Erik Thiessen)](https://www.cmu.edu/dietrich/psychology/infant-language-learning-lab/Home.html) and [Infant Cognition Lab (PI: David Rakison)](https://www.cmu.edu/dietrich/psychology/infant-cognition-lab/). I was born and raised in Beijing, China and I graduated from RDFZ in 2016. 
 
-For a more complete record of my academic journey, here is my [CV](https://drive.google.com/file/d/1nT-oYQbPjd121d_OuH7QVClf6aNzQa1U/view?usp=sharing).
+For a more complete record of my academic journey, here is my [CV](https://drive.google.com/file/d/18_PtGkiBb5q9WkLUmU2lTlBtpD2i1MSw/view?usp=sharing).
 

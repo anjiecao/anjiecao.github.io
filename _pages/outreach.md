@@ -6,7 +6,7 @@ author_profile: true
 
 English 
 --------
-- I am the co-founder and the co-host of the [Stanford Psychology Podcast](https://www.stanfordpsychologypodcast.com/). Our show has been downloaded more than 350,000 times across the world. We are ranked as the top 1% most shared podcast on Spotify in 2022. 
+- I am the co-founder and the co-host of the [Stanford Psychology Podcast](https://www.stanfordpsychologypodcast.com/). Our show has been downloaded more than 500,000 times across the world. We are ranked as the top 1% most shared podcast on Spotify in 2022. 
 
 Chinese 
 --------
